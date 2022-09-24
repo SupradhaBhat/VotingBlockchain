@@ -159,7 +159,7 @@ const HomepageLayout = () => (
 							Not even a single chance of shutting <br /> down of the system.
 						</p>
 					</Grid.Column>
-					<Image src="../static/ether2.png" width="216" height="256" style={{ paddingTop: '50px' }} />
+					<Image src="https://kuorum.org/wp-content/uploads/2020/05/voto-electronico-validez-legal-940x488.jpg" width="216" height="256" style={{ paddingTop: '50px' }} />
 
 					<Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
 						<Header as="h3" style={{ fontSize: '2em' }}>
