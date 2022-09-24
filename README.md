@@ -1,7 +1,7 @@
 # BlockChainVoting
 
 A blockchain-based E-voting system. Teammates include me and Gayathri
-> The application is MIT-Licensed.
+
 
 ## Build Setup
 
