@@ -11,6 +11,7 @@ authors:
 cff-version: "1.1.0"
 date-released: 2019-06-01
 message: "If you use this software, please cite it using these metadata.
+repository-code: "https://github.com/SupradhaBhat/VotingBlockchain"
 title: VotingBlockchain
 version: "v1.0"
 ...
