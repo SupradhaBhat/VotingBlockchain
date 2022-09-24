@@ -22,7 +22,7 @@ const HomepageHeading = ({ mobile }) => (
 	<Container text className="cont">
 		<Header
 			as="h1"
-			content="A blockchain-based E-voting system, built with love."
+			content="An E-voting system made with blockchain."
 			inverted
 			style={{
 				fontSize: mobile ? '2em' : '3em',
@@ -34,7 +34,7 @@ const HomepageHeading = ({ mobile }) => (
 		/>
 		<Header
 			as="h4"
-			content="Make your vote count!"
+			content="Your Vote matters!"
 			inverted
 			style={{
 				fontSize: mobile ? '1.5em' : '1.7em',
